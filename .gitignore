@@ -1,0 +1,6 @@
+.venv/
+__MACOSX/
+*.zip
+sentiment_analysis_backup.py
+.DS_Store
+FinancialPhraseBank-v1.0/
